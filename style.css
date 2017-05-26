@@ -1,0 +1,46 @@
+html,body{
+	background-color: blue;
+	background:linear-gradient(white,blue);
+}
+.header{
+	width: 740px;
+	height: 130px;
+	margin: 20px auto 20px auto;
+	background:#ffc90e;
+	line-height: 130px;
+	position: relative;
+}
+.space{
+	width: 740px;
+	height: 500px;
+	margin: 20px auto 20px auto;
+	background:#ffc90e;
+	background: linear-gradient(red,blue);
+	border-radius: 10px 20px 30px 40px;
+	box-shadow: 5px 5px 10px #3c2f00;
+
+
+}
+.workarea{
+	font-size: 15px;
+
+}
+.slogan{
+	font-family: arial;
+	margin-left: 500px;
+	font-size: 30px;
+}
+.logo{
+	position: absolute;
+	top:0px;
+	bottom: 0px;
+	margin:auto;
+	left: 30px;
+	transition: left linear 0.2s,width linear 0.2s,height linear 0.2s ,transform linear 0.2s;
+}
+.logo:hover{
+	left: 25px;
+	width: 85px;
+	height: 85px;
+	transform: rotate(360deg);
+}
