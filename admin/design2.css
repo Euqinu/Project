@@ -1,0 +1,65 @@
+html,body{
+	margin: 0px;
+	padding: 0px;
+	background-color: silver;
+}
+.container{
+	margin-bottom: 10px;
+
+}
+
+
+
+.admin{
+	border: solid;
+	border-width: 0.5px;
+	margin-top: 10%;
+	margin-right: 37%;
+	margin-left: 37%;
+	padding: 20px;
+	border-color: grey;
+
+}
+
+
+ #ad{
+	padding-left: 75px;
+}
+
+.button-admin{
+	margin-left: 35%;
+}
+
+.admin_pannel_head{
+	padding-left: 35%;
+	
+	margin-bottom: 1%;
+
+}
+
+.button-admin-pannel{
+		margin-left: 37%;
+		margin-top: 2%;
+		height: 200px;
+		width: 200px;
+}
+
+
+footer{
+	
+	margin-top: 10px;
+	
+	font-size: 12px;
+}
+
+
+
+.button-admin-pannel{
+		margin-left: 42%;
+		margin-top: 2%;
+		height: 50px;
+		width: 200px;
+}
+.top-bar{
+	position: fixed;
+}

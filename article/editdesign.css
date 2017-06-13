@@ -1,0 +1,12 @@
+html,body{
+	margin: 0px;
+	padding: 0px;
+	background-color: silver;
+}
+.articleheading{
+	margin-top: 50px;
+	font-size: 30px;
+}
+.submit-button{
+	margin-left: 350px;
+}
